@@ -8,7 +8,7 @@ section .text
 ; rdi = begin_list
 ; r9  = *begin_list
 ; r11 = rsi = cmp
-; rcx = precedent
+; rcx = previous
 ; rdx = list_len
 ; r8  = origin
 
