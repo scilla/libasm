@@ -2,4 +2,4 @@
 
 Libasm project for 42Roma Luiss
 
-![alt](https://i.redd.it/fvyg19vf59121.jpg)
+![alt](https://images7.memedroid.com/images/UPLOADED419/61084430b49d5.jpeg)
